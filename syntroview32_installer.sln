@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "syntroview32_installer", "syntroview32_installer.vdproj", "{B9E97F3E-2E18-41D6-A212-72E1A31AE242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9E97F3E-2E18-41D6-A212-72E1A31AE242}.Debug|Default.ActiveCfg = Debug
+		{B9E97F3E-2E18-41D6-A212-72E1A31AE242}.Debug|Default.Build.0 = Debug
+		{B9E97F3E-2E18-41D6-A212-72E1A31AE242}.Release|Default.ActiveCfg = Release
+		{B9E97F3E-2E18-41D6-A212-72E1A31AE242}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
