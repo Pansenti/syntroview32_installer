@@ -104,6 +104,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
             }
         }
         "Release"
@@ -128,6 +136,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.5"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.5 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.5"
+                    }
+                }
             }
         }
     }
@@ -356,17 +372,6 @@
         }
         "Folder"
         {
-            "{1525181F-901A-416C-8A58-119130FE478E}:_4992A1A230774FB38E5DDC82668FD66A"
-            {
-            "Name" = "8:#1916"
-            "AlwaysCreate" = "11:FALSE"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Property" = "8:DesktopFolder"
-                "Folders"
-                {
-                }
-            }
             "{994432C3-9487-495D-8656-3E829A8DBDDE}:_6391AED6301B4125AE0C6DA57168165C"
             {
             "DefaultLocation" = "8:[TARGETDIR]\\platforms"
@@ -549,20 +554,6 @@
             "Transitive" = "11:FALSE"
             "Target" = "8:_1A6A3568A71D4BF682D7C76FD70AF539"
             "Folder" = "8:_665E85037F47401D8F1526F49EBD05B7"
-            "WorkingFolder" = "8:_D4836B13AF084EA3AB2914A49393A6B3"
-            "Icon" = "8:"
-            "Feature" = "8:"
-            }
-            "{970C0BB2-C7D0-45D7-ABFA-7EC378858BC0}:_171E9CE50591472D91411C97561D3C7A"
-            {
-            "Name" = "8:SyntroView"
-            "Arguments" = "8:"
-            "Description" = "8:"
-            "ShowCmd" = "3:1"
-            "IconIndex" = "3:0"
-            "Transitive" = "11:FALSE"
-            "Target" = "8:_1A6A3568A71D4BF682D7C76FD70AF539"
-            "Folder" = "8:_4992A1A230774FB38E5DDC82668FD66A"
             "WorkingFolder" = "8:_D4836B13AF084EA3AB2914A49393A6B3"
             "Icon" = "8:"
             "Feature" = "8:"
